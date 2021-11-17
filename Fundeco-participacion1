@@ -1,1 +1,43 @@
-hola
+---
+title: "Participación Reflexiva"
+author: "Nombre"
+date: "202020: `r Sys.Date()`"
+output:
+  unilur::tutorial_pdf:
+    suffix: ""
+    toc: no
+pkgdown:
+  as_is: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana X
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+## Semana Y
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+Describa conocimientos previos en realación al tema
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
