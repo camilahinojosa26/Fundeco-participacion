@@ -1,7 +1,7 @@
 ---
 title: "Participación Reflexiva"
-author: "Nombre"
-date: "202020: `r Sys.Date()`"
+author: "Camila Hinojosa Añez"
+date: "17 noviembre 2021": `r Sys.Date()`"
 output:
   unilur::tutorial_pdf:
     suffix: ""
@@ -14,19 +14,36 @@ pkgdown:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Semana X
+A continuación se presentará la recopilación de los aprendizajes y resultados obtnidos durante las semanas en las cuales se impartió el curso de fundamentos de economía
+
+## Semana 1
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
-Describa conocimientos previos en realación al tema
+En esta semana se llevo a cabo una introducción del curso, en la cual se explicó la noción central de la economía, ciencia social que estudia la asignación de recursos escazos y sus 10 principios básicos con respecto a como las personas afrontan la toma de deciones y el impacto de estas. 
+Esto se relaciona con el primer objetivo, indetificar conceptos básicos de economía para identificar mecanismos de asignación de 
+recursos. 
+
+Describa conocimientos previos en realación al tema.
+
+Se tenia muy poco conocimiento con respecto al tema, especialmente sobre los principios y varios conceptos se prestaban a consufucion como eficia y eficacia o no se sabian a cabalidad como la diferencia entre macroeconomia y microeconomia 
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 
+Apender sobre los 10 principoios básicos cambió mi perpectiva de ver a la sociedad, especialmente al ver el comportamineto de las personas en lugares como el mall y los supermercados, dado que, las decisiones que realizamos día a día tienen un gran peso y este se ve reflejado en la economía.
+Además aprender sobre estos conceptos fue una buena introducción sobre las temáticas del curso y que visión abarcar a la hora de estudiar.
+
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+Estos contenidos en mi fomación son de gran relevacia, son la base teorica del analisis, es el punto de partida y la perspectiva que se debe tomar en cuenta antes de aportar con soluciones o analisis ante las problematicas de las personas a la hora de distrubuir los recursos escazos con el fin de satisfacer sus deseos y necesidades.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
+Esa semana conocí a mis compañeras, nos pudimso de acuerdo acerca de que sector ecónomico analizar para las tareas y el por qué
+
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+La noción principal de la economia, de donde surge, sus principios y conceptos básicos como inflación, costo de oportunidad, eficiencia, equidad, incentivos,entre otros.
 
 ## Semana Y
 
@@ -37,7 +54,7 @@ Describa conocimientos previos en realación al tema
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
-
+kkkk
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
