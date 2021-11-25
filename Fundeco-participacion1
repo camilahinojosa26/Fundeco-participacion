@@ -2,7 +2,7 @@
 title: "Participación Reflexiva"
 author: "Camila Hinojosa Añez"
 date: "17 noviembre 2021": `r Sys.Date()`"
-output:
+output: pdf_document
 
 ---
 
@@ -232,8 +232,6 @@ https://www.nobelprize.org/uploads/2021/10/popular-economicsciencesprize2021-3.p
 
 Finalmente esto puede relacionarse con los objetivos de aprendizaje (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica y
 (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
-
-![Estudio David Card.](C:\Users\hinoj\Downloads\foto1.png)
 
 Describa conocimientos previos en relación con el tema
 
