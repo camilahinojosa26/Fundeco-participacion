@@ -2,7 +2,7 @@
 title: "Participación Reflexiva"
 author: "Camila Hinojosa Añez"
 date: "17 noviembre 2021": `r Sys.Date()`"
-output: word_document
+output:
 
 ---
 
@@ -60,8 +60,6 @@ económico, los cuales fueron: el diagrama de flujo circular comprendido por el
 flujo de insumos y productos y el flujo del dinero, y la frontera de posibilidadesde producción que el modelo grafico que permite estudiar los niveles de producción dependiendo de los factores que se utilicen y la tecnología con la que se cuente.Un resultado eficiente está sobre la curva de la FPP fuera de esta son inviables y dentro son alcanzables pero ineficientes. Estos son modelos son herramientaslógicas que simplifican los problemas complejos con el fin de entender a cabalidad se utilizan supuestos para identificar la información más relevante y  al implementar el uso de la matemática se minimizan los errores lógicos.
 Esto se relaciona con el objetivo (RA2) Interpretar datos para enunciar 
 potenciales relaciones entre variables.
-
---------FOTO FPP----
 
 
 Describa conocimientos previos en relación con el tema.
@@ -235,6 +233,7 @@ https://www.nobelprize.org/uploads/2021/10/popular-economicsciencesprize2021-3.p
 Finalmente esto puede relacionarse con los objetivos de aprendizaje (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica y
 (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
 
+![Estudio David Card.](C:\Users\hinoj\Downloads\foto1.png)
 
 Describa conocimientos previos en relación con el tema
 
