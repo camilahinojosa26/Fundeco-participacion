@@ -14,14 +14,17 @@ pkgdown:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A continuación se presentará la recopilación de los aprendizajes y resultados obtenidos durante las semanas en las cuales se impartió el curso de fundamentos de economía
+A continuación se presentará la recopilación de los aprendizajes y resultados obtenidos durante las semanas en las cuales se impartió el curso de fundamentos 
+de economía
 
 #1) Semana 1 
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
-En esta semana se llevo a cabo una introducción del curso, en la cual se explicó la noción central de la economía, ciencia social que estudia la asignación de recursos escazos y sus 10 principios básicos con respecto a como las personas afrontan la toma de deciones y el impacto de estas. 
-Esto se relaciona con el primer objetivo, indetificar conceptos básicos de economía para identificar mecanismos de asignación de 
+En esta semana se llevo a cabo una introducción del curso, en la cual se explicó
+la noción central de la economía, ciencia social que estudia la asignación de recursos escazos y sus 10 principios básicos con respecto a como las personas afrontan la toma de deciones y el impacto de estas. 
+Esto se relaciona con el primer objetivo, indetificar conceptos básicos de 
+economía para identificar mecanismos de asignación de 
 recursos. 
 
 Describa conocimientos previos en relación al tema.
@@ -30,12 +33,21 @@ Se tenia muy poco conocimiento con respecto al tema, especialmente sobre los pri
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 
-Apender sobre los 10 principios básicos cambió mi perpectiva de ver a la sociedad, especialmente al ver el comportamineto de las personas en lugares como el mall y los supermercados, ante las rebajas, los icentivos, entre otros, esto es dado que, las decisiones que realizamos día a día tienen un gran peso y este se ve reflejado en la economía.
-Además aprender sobre estos conceptos fue una buena introducción sobre las temáticas del curso y que sirvió para saber que visión abarcar a la hora de estudiar.
+Apender sobre los 10 principios básicos cambió mi perpectiva de ver a la 
+sociedad, especialmente al ver el comportamineto de las personas en lugares 
+como el mall y los supermercados, ante las rebajas, los icentivos, entre otros,
+esto es dado que, las decisiones que realizamos día a día tienen un gran peso y 
+este se ve reflejado en la economía.
+Además aprender sobre estos conceptos fue una buena introducción sobre las 
+temáticas del curso y que sirvió para saber que visión abarcar a la hora de 
+estudiar.
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 
-Estos contenidos en mi fomación son de gran relevacia, son la base teorica del analisis, es el punto de partida y la perspectiva que se debe tomar en cuenta antes de aportar con soluciones o analisis ante las problematicas de las personas a la hora de distrubuir los recursos escazos con el fin de satisfacer sus deseos y necesidades.
+Estos contenidos en mi fomación son de gran relevacia, son la base teorica del analisis, es el punto de partida y la perspectiva que se debe tomar en cuenta 
+antes de aportar con soluciones o analisis ante las problematicas de las personas 
+a la hora de distrubuir los recursos escazos con el fin de satisfacer sus deseos 
+y necesidades.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
@@ -43,14 +55,24 @@ Esa semana conocí a mis compañeras, acordamos acerca de que sector ecónomico 
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 
-La noción principal de la economia, de donde surge, sus principios y conceptos básicos como inflación, costo de oportunidad, eficiencia, equidad, incentivos,entre otros.
+La noción principal de la economia, de donde surge, sus principios y conceptos básicos como inflación, costo de oportunidad, eficiencia, equidad, incentivos,
+entre otros.
 
 #2) Semana 2
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
-Esta semana se aprendieron los modelos cientifico/ de estudio del análisis económico, los cuales fuerón: el diagrama de flujo circular comprendido por el flujo de insumos y productos y el flujo del dinero y la frontera de posibilidades de producción que el modelo grafico que permite estudiar los niveles de producción dependiendo de los factores que se utilicen y la tecnologia con la que se cuente. Un resultado eficiente estrá sobre la curva de la FPP fuera de esta son inviables y dentro son alcanzables pero ineficientes.Estos son modelos son herramientas lógicas que simplifican los problemas complejos con el fin de entender a cabalidad se utilizan supuestos para identificar la información mas relevante y  al implementar el uso de la matemática se minimizan los errores lógicos.
-Esto se relaciona con el objetivo (RA2) Interpretar datos para enunciar potenciales relaciones entre variables.
+Esta semana se aprendieron los modelos cientifico/ de estudio del análisis 
+económico, los cuales fuerón: el diagrama de flujo circular comprendido por el 
+flujo de insumos y productos y el flujo del dinero y la frontera de posibilidades
+de producción que el modelo grafico que permite estudiar los niveles de producción dependiendo de los factores que se utilicen y la tecnologia con la que se cuente.
+Un resultado eficiente estrá sobre la curva de la FPP fuera de esta son inviables
+y dentro son alcanzables pero ineficientes.Estos son modelos son herramientas
+lógicas que simplifican los problemas complejos con el fin de entender a 
+cabalidad se utilizan supuestos para identificar la información mas relevante y  
+al implementar el uso de la matemática se minimizan los errores lógicos.
+Esto se relaciona con el objetivo (RA2) Interpretar datos para enunciar 
+potenciales relaciones entre variables.
 
 --------FOTO FPP----
 
@@ -61,7 +83,9 @@ No se tenia ningún conocimiento previo
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 
-El reflexionar acerca de la importancia de la relación entre recursos disponibles y tecnologia. además de como el rol de los agentes economicos, el trbajo, el dinero y las empresas estan todos viculados entre sí estas actividades y unas dependen de las otras
+El reflexionar acerca de la importancia de la relación entre recursos disponibles 
+y tecnologia. además de como el rol de los agentes economicos, el trbajo, el 
+dinero y las empresas estan todos viculados entre sí estas actividades y unas dependen de las otras
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 
@@ -79,7 +103,10 @@ Descripción del diagrama de flujo circular, como hacer el modelo de la FPP, la 
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
-Dentro del módulo de los mercados, en esta semana se aprendió sobre costos, producción y la oferta.Uno de los objetivos que tienen las empresas a la hora de ofrecer y producir productos y servicios es maximizar sus beneficios, para que esto sea posible es fundamnetal entender todos los costos que conlleva mantenerla y sus rendimientos a escala para analizar si es viable o no que esta permanezca en el mercado. esto se relaciona con el objetivo de aprendizaje (RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector 
+Dentro del módulo de los mercados, en esta semana se aprendió sobre costos, producción y la oferta.Uno de los objetivos que tienen las empresas a la hora de ofrecer y producir productos y servicios es maximizar sus beneficios, para que 
+esto sea posible es fundamnetal entender todos los costos que conlleva mantenerla
+y sus rendimientos a escala para analizar si es viable o no que esta permanezca 
+en el mercado. esto se relaciona con el objetivo de aprendizaje (RA4) Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector 
 productivo.
 
 Describa conocimientos previos en realación al tema.
@@ -92,7 +119,8 @@ Los conceptos aprendidos en esta semana pueden ser utilizados en todos los ámbi
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 
-Como futuro profesional tendrá una relevancia imprescindible tanto en temas relacionados con las empresas (en relación a costos y si es viable que esta siga en pie) como en la organizacion de un equipo, en la gestión de operaciones de un proyecto, entre otros. Estas herramientas serán utiles para analizar y comprendar las situaciones y tomar decisiones correctas. 
+Como futuro profesional tendrá una relevancia imprescindible tanto en temas relacionados con las empresas (en relación a costos y si es viable que esta siga 
+en pie) como en la organizacion de un equipo, en la gestión de operaciones de un proyecto, entre otros. Estas herramientas serán utiles para analizar y comprendar las situaciones y tomar decisiones correctas. 
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
@@ -100,14 +128,19 @@ Esta semana no hubo trabajo grupal
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 
-Ley de la oferta y cuando ocurren sus desplazamientos, producto marginal, curva de costos y su análisis, costo marginal y saber en que consiste la economia de escala.
+Ley de la oferta y cuando ocurren sus desplazamientos, producto marginal, curva 
+de costos y su análisis, costo marginal y saber en que consiste la economia de escala.
 
 
 #4) Semana 6
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
-Esta fue la semana de compreder la elasticidad en las curvas de la oferta y la demanda. La elasticidad es la medida que cuantifica los cambios en la cantidad cuando uno de los determinantes bien sea de la oferta (precio en el mercado y mercancias, tecnologia, costos)y la demanda (precio de la mercancia, ingresos, preferencias, etc.) cambian, si este cambio es mayor a 1 se la el caso de la elasticidad, si es menor a 1 es inelática, igual a 1 es la eláticidad unitaria y por ´luimo si es igual a cero es perfectamente inelástica.La elasticidad también se puede medir graficamente, pero dependiendo del punto en que se mida esta variará, pero herrmanientas matematicas como el cálculo del punto medio ayudará a tener un resultado mas preciso. Esto se relaciona con los objetivos (RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre 
+Esta fue la semana de compreder la elasticidad en las curvas de la oferta y la demanda. La elasticidad es la medida que cuantifica los cambios en la cantidad cuando uno de los determinantes bien sea de la oferta (precio en el mercado y mercancias, tecnologia, costos)y la demanda (precio de la mercancia, ingresos, preferencias, etc.) cambian, si este cambio es mayor a 1 se la el caso de la elasticidad, si es menor a 1 es inelática, igual a 1 es la eláticidad unitaria y 
+por último si es igual a cero es perfectamente inelástica.La elasticidad también 
+se puede medir graficamente, pero dependiendo del punto en que se mida esta
+variará, pero herrmanientas matematicas como el cálculo del punto medio ayudará a tener un resultado mas preciso. Esto se relaciona con los objetivos (RA3) Describir y 
+simular modelos económicos para establecer la dinámica de relaciones entre 
 variables y (RA4)  Identificar  problemáticas  económicas  para  establecer  planes  contingentes  a  todo  sector 
 productivo.
 
@@ -125,32 +158,50 @@ Me permitirá una fundamentar la decisión correcta en base a cambios y efectos 
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
-Esa semana se terminó la tarea 2 que abarcó los módulos de La FPP, Los costos y las elasticidades en las curvas en el mercado inmbolibiliaro comparando 2019 y 2020.
+Esa semana se terminó la tarea 2 que abarcó los módulos de La FPP, Los costos y
+las elasticidades en las curvas en el mercado inmbolibiliaro comparando 2019 y 2020.
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 
-Saber que es la elasticidad y dar ejmplos para analizar cada uno de los tipos que se puedne presentar.
+Saber que es la elasticidad y dar ejmplos para analizar cada uno de los tipos que 
+se puedne presentar.
 
-#5) Semana """"
+#5) Semana 8
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 
+La semana 8 estuvo relacionada con el comercio internacional, se aprendió que comparando el precio nacional, que represanta el costo de oprotunidad del bien  
+y el internacional se puede determinar que es mas conveniente entre la importación 
+y la exportación. 
+Precio mundial mas caro que el nacional--> exportación
+Precio mundial mas barato que el nacional -->importación
+También se comprendió el rol de los aranceles y su importancia.
 
 
 Describa conocimientos previos en realación al tema
 
+No comprendía el rol de los aranceles y cuando era conveniente que se importara 
+exportara un bien.
+
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+valorar los bienes que son producidos en el país y su exportación.
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 
+En un futuro se pudiera aoprtar en innovar en la exportación e importación de bienes.
+
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
 
+Esta semana no hubo trabajo grupal.
+
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+La función de los aranceles y los efectos del comercio internacional.
 
 #6) Semana """"
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
-
 
 
 Describa conocimientos previos en realación al tema
