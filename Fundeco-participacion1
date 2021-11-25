@@ -2,12 +2,8 @@
 title: "Participación Reflexiva"
 author: "Camila Hinojosa Añez"
 date: "17 noviembre 2021": `r Sys.Date()`"
-output:
-  unilur::tutorial_pdf:
-    suffix: ""
-    toc: no
-pkgdown:
-  as_is: true
+output: word_document
+
 ---
 
 ```{r setup, include=FALSE}
@@ -226,7 +222,6 @@ Para más información acerca del estudio de David Card, Joshua Angrist and Guid
 Finalmente esto puede relacionarse con los objetivos de aprendizaje (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica y
 (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
 
-![alt text here](file:///C:/Users/hinoj/Desktop/CAMILA%20U%20ANDES/SEMESTRE%202%202021/FUND%20ECONOMIA/foto1.pdf)
 
 Describa conocimientos previos en relación con el tema
 
